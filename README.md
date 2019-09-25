@@ -1,2 +1,3 @@
-# ilkerfindik.github.io
-This is my website repository
+# mywebsite
+
+Howdy Website v2.0
