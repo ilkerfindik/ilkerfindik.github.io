@@ -1,3 +1,3 @@
 # mywebsite
 
-Howdy Website v2.0
+This is my website repository
